@@ -4,7 +4,7 @@
 <groupInfo>
 <author/>
 <authorApplication>Lightroom 5.2</authorApplication>
-<creationDate>09/01/16, 02:31:39 PM</creationDate>
+<creationDate>09/17/16, 09:29:04 AM</creationDate>
 <galleryMaker name="Adobe Flash Gallery" version="1.3"/>
 <groupData groupID="" groupName=""/>
 <authorID/>
@@ -21,8 +21,8 @@ Each image has a scale of either:
 - a digitized scale located in one of the corners of the image (Images from Corals of the World)
 
 Labels of the images correspond with the row number and name of the species in the tables found in the CCSIG: 
-- weblink
-- print link
+- https://ccsig.github.io
+- https://github.com/ccsig/ccsig.github.io/blob/master/ccsig.pdf
   
 To make suggestions/comments, please contact:
 - Melisa Chan: melisacbl@gmail.com

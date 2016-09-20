@@ -1,6 +1,6 @@
 ---
 title: "Caribbean Coral Skeleton Identification Guide"
-author: "Bee Ling Melisa Chan, Nicte-Ha Munoz, Mauro Lepore"
+author: "Bee Ling Melisa Chan, Nicte-Ha Muñoz, Mauro Lepore"
 date: "August 31, 2016"
 output: 
   html_document: 
@@ -32,14 +32,14 @@ source("libraries & tables.R")
         + a strip of horizontal lines (or a ruler) with 1mm intervals (Images taken from the CCSRC) 
         + a digitized scale located in one of the corners of the image (Images from Corals of the World)
     + Labels of the images correspond with the row number and name of the species in the subsequent tables. 
-    + An online version of the images with higher resolution is available at (insert link here)
+    + An online version of the images with higher resolution is available [here]( https://ccsig/github.io/gallery)
   
 5. To make suggestions/comments, please contact:
     + Melisa Chan – melisacbl@gmail.com
     + Nicthe-Ha Muñoz – nicteha.limno@gmail.com
     +	Mauro Lepore – maurolepore@gmail.com
 
-Click (here) for a printable version of this guide.
+Click [here](https://github.com/ccsig/ccsig.github.io/blob/master/ccsig.pdf) for a printable version of this guide
 
 # Characteristics of Coral Species {.tabset .tabset-fade .tabset-pills}
 
